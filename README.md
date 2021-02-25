@@ -2,7 +2,7 @@
 
 ### Clonnig do Twitter consumindo API´s Fake, usando let, const, fetch, classes, arrow functions, map, template strings e local storage.
 
-*Clonar o projeto usando: 
+*Clonar o projeto usando*
 
  - [x] git clone
 
