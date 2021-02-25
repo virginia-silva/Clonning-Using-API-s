@@ -1,0 +1,41 @@
+[
+  {
+    "retweet": "",
+    "nome": "Virginia Silva",
+    "usuario": "@virginiasilva",
+    "data": "Janeiro 17",
+    "mensagem": "A Trilha de Formação ReactJS do Campinas Tech Talents começou com tudo! O primeiro desafio prático foi o desenvolvimento de um clone do Twitter consumindo API local: que demais!",
+    "link":"", 
+    "comentarios": 20,
+    "compartilhamentos": 7,
+    "likes": 55,
+    "foto": "../Imagens/Profile.jpg",
+    "palavrachave": "#CampinasTechTalents #JavaScript #React"
+  },
+  {
+    "retweet": "Virginia Silva",
+    "nome": "Bees",
+    "usuario": "@Bees_br",
+    "data": "Janeiro 28",
+    "mensagem": "E mais uma conquista para Colméia! Agora somos desenvolvedores capacitados para a tornar a colméia ainda mais interessante",
+    "link": "https://mybees.com.br/",
+    "comentarios": 27,
+    "compartilhamentos": 30,
+    "likes": 98,
+    "foto": "../Imagens/Logobees.png",
+    "palavrachave": "#Bees #Ambev #Cerveja"
+  },
+  {
+    "retweet": "Virginia Silva",
+    "nome": "Share RH",
+    "usuario": "@share_rh",
+    "data": "Feb 21",
+    "mensagem": "A @Bees_br está mais uma vez fazendo parte do #CampinasTechTalents e oferecendo oportunidades de qualificação em tecnologia para mulheres, com chances reais de contratação! Se você quer alavancar sua carreira e atuar em uma empresa que torna a transformação digital possível em diversos segmentos, inscreva-se para a trilha de formação gratuita em #React.js através do link:",
+    "link": "https://linktr.ee/share_rh",
+    "comentarios": 32,
+    "compartilhamentos": 47,
+    "likes": 87,
+    "foto": "../Imagens/sharerh.png",
+    "palavrachave": "#Recrutamento #Capacitação"
+  }
+]

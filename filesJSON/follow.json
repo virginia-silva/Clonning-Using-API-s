@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Ducati",
+    "usuario": "Ducati_br",
+    "profilefoto": "../Imagens/Ducatiprofile.jpg"
+  },
+  {
+    "nome": "Kawasaki",
+    "usuario": "Kawasaki_br",
+    "profilefoto": "../Imagens/Kawasaki.png"
+  },
+  {
+    "nome": "MV Agusta",
+    "usuario": "MVAgusta_br",
+    "profilefoto": "../Imagens/Agusta.png"
+  }
+]
